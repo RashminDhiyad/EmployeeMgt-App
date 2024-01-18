@@ -1,0 +1,58 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field
+
+{
+  width: 100%;
+}
+
+}
+
+.mat-mdc-cell {
+  padding: 10px; /* Adjust as needed */
+}
+
+.mat-mdc-cell {
+  flex: 1;
+}
+
+/* Add this style to your CSS */
+.mat-mdc-cell.mat-column-action {
+  display: flex;
+  gap: 5px; /* Adjust the gap according to your preference */
+  align-items: center;
+}
+
+.mat-icon-button {
+  display: inline-flex;
+}
+
+@media (max-width: 600px) {
+  .table-container {
+    overflow-x: auto;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  th, td {
+    white-space: nowrap;
+  }
+
+  td:before {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    content: attr(data-label);
+  }
+}

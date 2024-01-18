@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DemoProject\\EmployeeAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E13323-2218-4278-B4D9-D6062AA962BE}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|d:\\demoproject\\employeeangular\\employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E13323-2218-4278-B4D9-D6062AA962BE}|EmployeeManagementAPI\\EmployeeManagementAPI.csproj|solutionrelative:employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP\\EmployeeManagement-APP.esproj|d:\\demoproject\\employeeangular\\employeemanagement-app\\src\\app\\employee-edit\\employee-edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP\\EmployeeManagement-APP.esproj|solutionrelative:employeemanagement-app\\src\\app\\employee-edit\\employee-edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP\\EmployeeManagement-APP.esproj|d:\\demoproject\\employeeangular\\employeemanagement-app\\src\\app\\employee-edit\\employee-edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP\\EmployeeManagement-APP.esproj|solutionrelative:employeemanagement-app\\src\\app\\employee-edit\\employee-edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "employee-edit.component.ts",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeAngular\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.ts",
+              "RelativeDocumentMoniker": "EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.ts",
+              "ToolTip": "D:\\DemoProject\\EmployeeAngular\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.ts",
+              "RelativeToolTip": "EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.ts",
+              "ViewState": "AQIAADkAAAAAAAAAAAD4v0QAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-01-18T08:32:16.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employee-edit.component.html",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeAngular\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.html",
+              "RelativeDocumentMoniker": "EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.html",
+              "ToolTip": "D:\\DemoProject\\EmployeeAngular\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.html",
+              "RelativeToolTip": "EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.html",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-18T08:31:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeAngular\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeAngular\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T08:30:04.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

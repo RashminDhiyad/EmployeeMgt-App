@@ -1,0 +1,43 @@
+{
+  "employees": [
+    {
+      "firstName": "Rashmin",
+      "lastName": "Dhiyad",
+      "email": "d@gmail.com",
+      "dob": "2012-11-12T18:30:00.000Z",
+      "designation": "Director",
+      "address": "surat",
+      "city": "surat",
+      "postalCode": 546412,
+      "phoneNumber": "9326582623",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "firstName": "Shit",
+      "lastName": "Dh",
+      "email": "sh@gmail.com",
+      "dob": "1991-12-11T18:30:00.000Z",
+      "designation": "Producer",
+      "address": "ahmedabad",
+      "city": "Ahm",
+      "postalCode": 398523,
+      "phoneNumber": "9879875663",
+      "gender": "Male",
+      "id": 2
+    },
+    {
+      "firstName": "Nira",
+      "lastName": "dfs",
+      "email": "nira@cgfdhd",
+      "dob": "1993-11-12T18:30:00.000Z",
+      "designation": "Technician",
+      "address": "Surtga",
+      "city": "Surat",
+      "postalCode": 369852,
+      "phoneNumber": "9874563220",
+      "gender": "Male",
+      "id": 3
+    }
+  ]
+}

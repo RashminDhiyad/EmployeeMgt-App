@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DemoProject\\EmployeeManagement-APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\app.component.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\employee-edit\\employee-edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\employee-edit\\employee-edit.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\employee-edit\\employee-edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\employee-edit\\employee-edit.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\services\\designation-api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\services\\designation-api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\models\\designation.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\models\\designation.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|d:\\demoproject\\employeemanagement-app\\src\\app\\services\\employee-api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{64BA4830-D42E-4449-8D31-E8758AC2916A}|EmployeeManagement-APP.esproj|solutionrelative:src\\app\\services\\employee-api.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\models\\designationmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\data\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\demoproject\\employeemanagementapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.scss",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\app.component.scss",
+              "RelativeDocumentMoniker": "src\\app\\app.component.scss",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\app.component.scss",
+              "RelativeToolTip": "src\\app\\app.component.scss",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-01-18T07:18:10.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.component.html",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-18T07:17:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DesignationMst.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Models\\DesignationMst.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Models\\DesignationMst.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Models\\DesignationMst.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Models\\DesignationMst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T06:03:11.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "employee-edit.component.html",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.html",
+              "RelativeDocumentMoniker": "src\\app\\employee-edit\\employee-edit.component.html",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.html",
+              "RelativeToolTip": "src\\app\\employee-edit\\employee-edit.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-01-18T06:28:13.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "designation-api.service.ts",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\services\\designation-api.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\designation-api.service.ts",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\services\\designation-api.service.ts",
+              "RelativeToolTip": "src\\app\\services\\designation-api.service.ts",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-01-18T06:19:24.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwEUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T05:30:12.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "employee-edit.component.ts",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\employee-edit\\employee-edit.component.ts",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\employee-edit\\employee-edit.component.ts",
+              "RelativeToolTip": "src\\app\\employee-edit\\employee-edit.component.ts",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAABwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-01-18T06:22:20.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Controllers\\DesignationController.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Controllers\\DesignationController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T05:29:50.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "designation.model.ts",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\Models\\designation.model.ts",
+              "RelativeDocumentMoniker": "src\\Models\\designation.model.ts",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\Models\\designation.model.ts",
+              "RelativeToolTip": "src\\Models\\designation.model.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-01-18T07:06:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAACsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-01-18T06:21:56.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\appsettings.json",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-18T06:04:55.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManagementDBContext.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Data\\EmployeeManagementDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Data\\EmployeeManagementDBContext.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Data\\EmployeeManagementDBContext.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Data\\EmployeeManagementDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vwsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T06:03:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagementAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-18T06:13:41.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "employee-api.service.ts",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\services\\employee-api.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\services\\employee-api.service.ts",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\src\\app\\services\\employee-api.service.ts",
+              "RelativeToolTip": "src\\app\\services\\employee-api.service.ts",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-01-18T06:18:34.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Program.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T06:03:43.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementAPI\\Models\\Employee.cs",
+              "ToolTip": "D:\\DemoProject\\EmployeeManagement-APP\\EmployeeManagementAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementAPI\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T06:07:30.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

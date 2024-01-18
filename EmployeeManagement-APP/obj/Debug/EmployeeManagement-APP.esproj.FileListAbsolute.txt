@@ -1,0 +1,2 @@
+D:\DemoProject\EmployeeManagement-APP\obj\Debug\EmployeeManagement-APP.esproj.CoreCompileInputs.cache
+D:\DemoProject\EmployeeAngular\EmployeeManagement-APP\obj\Debug\EmployeeManagement-APP.esproj.CoreCompileInputs.cache
